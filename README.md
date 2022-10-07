@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-luqman
-- 👀 I’m interested in Cloud DevOp
-- 🌱 I’m currently learning Cloud DevOp under Udacity
-- 💞️ I’m looking to collaborate on DevOp and Fullstack project
+- 👀 I’m interested in Cloud DevOps
+- 🌱 I’m currently learning Cloud DevOps under Udacity
+- 💞️ I’m looking to collaborate on DevOps and Fullstack project
 - 📫 How to reach me "o.balogun@ymail.com"
 
 <!---
