@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud DevOps | Software Development
 - 🌱 I’m currently learning Cloud DevOps under Udacity
 - 💞️ I’m looking to collaborate on DevOps and Software project
-- 📫 How to reach me "lukheebalo@gmail.com"
+- 📫 How to reach me "o.balogun@ymail.com"
 - 🔭 Want to know more about me? [Portfolio](http://devlook.tech/)
 - ⚙️ Review [my first github account](https://github.com/lukhee)
 
