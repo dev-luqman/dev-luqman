@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DevOps and Software project
 - 📫 How to reach me "o.balogun@ymail.com"
 - 🔭 Want to know more about me? [Portfolio](http://devlook.tech/)
-- ⚙️ Review [my first github account](https://github.com/lukhee)
+- ⚙️ Review [my first github account](https://github.com)
 
 <!---
 dev-luqman/dev-luqman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
