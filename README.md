@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Balogun Lukman O.
-- 👀 I’m interested in Cloud DevOps | Software Development
-- 🌱 I’m a Cloud DevOps Engineer
-- 💞️ I’m looking to collaborate on DevOps and Software project
-- 📫 How to reach me "o.balogun@ymail.com"
+- 🌱 I’m a Passionate Cloud Driven software Engineer
+- 💞️ Always collaborating and working on an interesting projects in my free time
 - 🔭 Want to know more about me? [Portfolio](http://devlook.tech/)
-- ⚙️ Review [my first github account](https://github.com/lukhee)
+- ⚙️ Review My : [Software github account](https://github.com/lukhee)
 
 
 
